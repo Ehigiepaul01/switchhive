@@ -20,7 +20,7 @@ To run this project you need the following installed:
 Clone this repository to your desired folder:
 
 ```bash
-git clone https://github.com/TRIPLE-ADE/switchhive-dashboard
+git clone https://github.com/Ehigiepaul01/switchhive.git
 ```
 
 Install project dependencies:
@@ -45,7 +45,7 @@ Contributions, issues, and feature requests are welcome!
 
 ### Contribution Guidelines
 
-1. Clone the repo `git clone  https://github.com/TRIPLE-ADE/switchhive-dashboard`.
+1. Clone the repo `git clone  https://github.com/Ehigiepaul01/switchhive-dashboard`.
 2. Create a new branch from the `dev` branch `git checkout -b Feat/{feature you're working on}`
 3. Make sure your branch is up to date with the `dev` branch: `git pull origin dev`
 4. After making changes, do `git add .`
